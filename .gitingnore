@@ -1,0 +1,11 @@
+.idea/
+.cache/
+.benchmarks/
+__pycache__/
+.venv/
+venv/
+pypyenv/
+.STAK/
+
+*.pyc
+*.log
